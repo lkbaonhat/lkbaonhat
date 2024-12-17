@@ -5,7 +5,7 @@ I am a third-year Software Engineering student with a strong foundation in font-
 
 ### 📊 GitHub Stats
 
-![Bảo Nhật's Streak](https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=lkbaonhat&theme=monokai-metallian&hide_border=true)
+![Bảo Nhật's Streak](https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=lkbaonhat&theme=blueberry&hide_border=true)
 
 ### 🔍 Most Used Languages
 
