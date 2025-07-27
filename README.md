@@ -1,4 +1,4 @@
-# Lại Trần Nhật Anh
+# Lê Kim Bảo Nhật
 
 ## 👋 Hello!
 I am a third-year Software Engineering student with a strong foundation in frontend development and a growing passion for backend technologies.
