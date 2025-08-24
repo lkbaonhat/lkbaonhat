@@ -6,6 +6,7 @@ I am a third-year Software Engineering student with a strong foundation in front
 ### 📊 GitHub Stats
 
 ![lkbaonhat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lkbaonhat&theme=blueberry&hide_border=true)
+![lkbaonhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkbaonhat&show_icons=true&theme=radical)
 
 ### 🔍 Most Used Languages
 
